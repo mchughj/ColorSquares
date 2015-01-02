@@ -1,3 +1,4 @@
+![The final product](https://s3.amazonaws.com/jmchugh/GitHubPictures/ColorSquares.jpg)
 
 This is a 3x3 light squares with a tilt-a-whirl.  The intent of this project was just to have a bit of fun and keep myself occupied while the family watched the 2014 November soccer game.  
 
